@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ACER/Downloads/YourFirstHour/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/ACER/Downloads/YourFirstHour/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/A4/287FIC944HG5AWP6I0ZSQ7.uasset",
+				"C:/Users/ACER/Downloads/YourFirstHour/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/1K/WEQVMYE5DRFQ6UXPPCAR9I.uasset",
+				"C:/Users/ACER/Downloads/YourFirstHour/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/HY/AQE4UG1XQ6UZZXMSM1A16D.uasset",
+				"C:/Users/ACER/Downloads/YourFirstHour/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/ACER/Downloads/YourFirstHour/Content/Maps/OurLevel.umap",
+				"C:/Users/ACER/Downloads/YourFirstHour/Content/Import/stompwav-14753.uasset",
+				"C:/Users/ACER/Downloads/YourFirstHour/Content/Import/stone.uasset",
+				"C:/Users/ACER/Downloads/YourFirstHour/Content/EOL_Content/Maps/Map_Playground.umap",
+				"C:/Users/ACER/Downloads/YourFirstHour/Content/EOL_Content/Meshes/Materials/MI_Glow.uasset",
+				"C:/Users/ACER/Downloads/YourFirstHour/Content/EOL_Content/Meshes/Materials/MI_GlowBlue.uasset",
+				"C:/Users/ACER/Downloads/YourFirstHour/Content/EOL_Content/Meshes/Materials/MI_GlowRed.uasset",
+				"C:/Users/ACER/Downloads/YourFirstHour/Content/EOL_Content/Characters/Bot/BP_Bot.uasset",
+				"C:/Users/ACER/Downloads/YourFirstHour/Content/StackOBot/StackOBotMap.umap",
+				"C:/Users/ACER/Downloads/YourFirstHour/Content/StackOBot/ThirdPersonCharacterCourse/Blueprint/BP_StackBot.uasset",
+				"C:/Users/ACER/Downloads/YourFirstHour/Content/StackOBot/ThirdPersonCharacterCourse/Blueprint/ABP_StackBot.uasset",
+				"C:/Users/ACER/Downloads/YourFirstHour/Content/StackOBot/ThirdPersonCharacterCourse/Input/IA_MoveForwardCC.uasset",
+				"C:/Users/ACER/Downloads/YourFirstHour/Content/StackOBot/ThirdPersonCharacterCourse/Input/IA_TurnCC.uasset",
+				"C:/Users/ACER/Downloads/YourFirstHour/Content/StackOBot/ThirdPersonCharacterCourse/Input/IA_MoveRightCC.uasset",
+				"C:/Users/ACER/Downloads/YourFirstHour/Content/StackOBot/ThirdPersonCharacterCourse/Input/IM_ThirdPersonCC.uasset",
+				"C:/Users/ACER/Downloads/YourFirstHour/Content/StackOBot/ThirdPersonCharacterCourse/Input/IA_ShoSwitchCC.uasset",
+				"C:/Users/ACER/Downloads/YourFirstHour/Content/StackOBot/ThirdPersonCharacterCourse/Input/IA_LookUpCC.uasset",
+				"C:/Users/ACER/Downloads/YourFirstHour/Content/StackOBot/ThirdPersonCharacterCourse/Blueprint/GM_StackBot.uasset",
+				"C:/Users/ACER/Downloads/YourFirstHour/Content/StackOBot/ThirdPersonCharacterCourse/Blueprint/PC_StackBot.uasset",
+				"C:/Users/ACER/Downloads/YourFirstHour/Content/StackOBot/ThirdPersonCharacterCourse/Animation/BS1D_IdleRun.uasset",
+				"C:/Users/ACER/Downloads/YourFirstHour/Content/EOL_Content/Maps/OurLevel.umap",
+				"C:/Users/ACER/Downloads/YourFirstHour/Content/OurLevel.umap"
+			]
+		}
+	]
+}
